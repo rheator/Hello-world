@@ -1,5 +1,5 @@
 Welcome to RISE by Digital BCG
 
-Enter your name: Manuj
+Enter your name:
 
-Enter a message: Git is cool
+Enter a message:
