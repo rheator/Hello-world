@@ -1,5 +1,5 @@
 Welcome to RISE by Digital BCG
 
-Enter your name:
+Enter your name:jiaxiang
 
-Enter a message:
+Enter a message:commit change please
